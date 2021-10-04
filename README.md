@@ -5,10 +5,10 @@ Aplicacion que permite generar un listado de actividades categorizado. Contiene 
 
 ### Pre-requisitos 📋
 
-PHP >7.0
-MySQL >5.6
-Nodejs para manejo de dependencia con npm
-Composer para manejo de paquetes de Laravel
+* PHP >7.0
+* MySQL >5.6
+* Nodejs para manejo de dependencia con npm
+* Composer para manejo de paquetes de Laravel
 
 ### Instalación 🔧
 
@@ -30,6 +30,7 @@ Composer install
 * [Vue.js](https://vuejs.org/v2/guide/) - Vue.js
 * [MySQL](https://dev.mysql.com/doc/) - MySQL 5.6
 * [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/) - Bootstrap 4
+* [Blade]
 
 
 ## Autores ✒️
